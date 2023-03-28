@@ -1,0 +1,3 @@
+interface AI {
+    void AItools();
+}
